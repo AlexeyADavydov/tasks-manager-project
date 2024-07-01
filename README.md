@@ -1,15 +1,19 @@
-# Монитор задач
+## Монитор задач
 
-## Описание
+### Описание
 
 Простой менеджер задач для регистрации, удаления и изменения статуса задач.
 
-Проект запущен через Docker. 
+Проект имеет фронтэнд в виде SPA-приложения на React и бэкенд на Django. Проект запущен на виртуальном удаленном сервере и работает через Docker. 
 
-## Стек
+### Стек технологий
 
 Python, Django, DRF, Docker, PostgreSQL, Gunicorn, Nginx, Certbot
 
-## Результат
+### Работающий результат
 
-Сайт - zadachi.alexeyadavydov.com
+zadachi.alexeyadavydov.com
+
+### Автор проекта (бэкенд и деплой)
+
+[AlexeyADavydov](https://github.com/AlexeyADavydov/)
